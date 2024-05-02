@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Quote Generator</string>
+
+    <string name="quote_string">“Nothing is impossible, the word itself says ‘I’m possible.’”
+
+        <b>\n\n– Robert Bloch</b>
+    </string>
+
+    <string name="quote_string2">“I’d rather regret the things I’ve done than the things I haven’t done."
+        <b>\n\n– Jess C Scott, The Devilin Fey</b>
+    </string>
+
+    <string name="quote_string3">“Here comes the sun. And I say, it’s all right."
+        <b>\n\n– Jess C. Scott</b>
+    </string>
+
+    <string name="quote_string4">"Just say yes and you’ll figure it out afterwards."
+        <b>\n\n– Terry Pratchett</b>
+    </string>
+
+    <string name="quote_string5">"Choose to be optimistic, it feels better."
+
+        <b>\n\n– Johnny Carson</b>
+    </string>
+
+    <string name="quote_string6">“Real change, enduring change, happens one step at a time.”
+        <b>\n\n– Will Rogers</b>
+    </string>
+
+    <string name="quote_string7">Try to be a rainbow in someone else’s cloud.”
+
+        <b>\n\n– J. Limbu</b>
+    </string>
+</resources>
